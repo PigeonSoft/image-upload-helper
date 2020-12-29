@@ -1,0 +1,20 @@
+{
+    "name": "pigeonsoft/image-upload-helper",
+    "description": "Laravel Image Upload Helper Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ariful Islam",
+            "email": "ariful.bpi2012@gmail.com",
+            "homepage": "https://pigeon-soft.com",
+            "role": "Author"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PigeonSoft\\UploadImage\\": "src/"
+        }
+    },
+    "require": {}
+}
